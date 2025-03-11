@@ -1,2 +1,1 @@
-
-collabora/code
+collabora/code:alpine
