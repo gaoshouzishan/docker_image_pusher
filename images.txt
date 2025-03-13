@@ -1,1 +1,1 @@
-collabora/code:alpine
+xwiki/cryptpad
